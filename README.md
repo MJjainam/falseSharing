@@ -7,7 +7,7 @@ This repository contains a C file which gives the computation time differences b
 You need gcc to compile the code:<br>
 $gcc -pthread -o parallelComputing parallelComputing.c
 
-Run the code:
+Run the code:<br>
 $./parallelComputing.c
 
 <b> For explanation on false sharing and the code refer my blog : www.parallelcomputing2017.wordpress.com <b>
