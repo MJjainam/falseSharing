@@ -10,5 +10,10 @@ $gcc -pthread -o parallelComputing parallelComputing.c
 Run the code:<br>
 $./parallelComputing.c
 
+These are the results upon execution -
+
+![Image of the result](https://github.com/MJjainam/falseSharing/blob/master/falseSharing.PNG)
+
+
 <b> For explanation on false sharing and the code refer my blog : https://parallelcomputing2017.wordpress.com/2017/03/17/understanding-false-sharing/ <b>
 
